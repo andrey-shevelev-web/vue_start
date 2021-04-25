@@ -9,7 +9,7 @@ Version: 1.0.0
 ## Демонстрация проекта
 
 Просмотр проекта доступен по ссылке:
-[Открыть страницу проекта](https://andrey-shevelev-web.github.io/vue_start/)
+[открыть страницу проекта](https://andrey-shevelev-web.github.io/vue_start/)
 
 ## Локальный запуск
 

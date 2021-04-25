@@ -1,6 +1,11 @@
 <template>
   <form @submit.prevent="onSubmit">
-    <input v-model="title" @keydown.enter="onSubmit" type="text" />
+    <input
+      v-model="title"
+      @keydown.enter="onSubmit"
+      type="text"
+      placeholder="What needs to be done"
+    />
     <button type="submit">Add Todo</button>
   </form>
 </template>
