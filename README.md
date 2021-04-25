@@ -1,24 +1,42 @@
-# vue_start
+# SPA project: Simple Todo App
 
-## Project setup
+Version: 1.0.0
+
+## Описание проекта
+
+**Используемые технологии:** `Vue.js`, `Java Script`.
+
+## Демонстрация проекта
+
+Просмотр проекта доступен по ссылке:
+[Открыть страницу проекта](https://andrey-shevelev-web.github.io/vue_start/)
+
+## Локальный запуск
+
+1. Склонировать репозиторий
+
+2. Установить отсутствющие модули npm
+
 ```
-npm install
+  npm install
 ```
 
-### Compiles and hot-reloads for development
+3. Запустить локальный сервер
+
 ```
-npm run serve
+  npm run serve
 ```
 
-### Compiles and minifies for production
+4. Выполнить production-сборку
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
+5. Анализ и исправление файлов
+
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**Shevelev Andrey**
